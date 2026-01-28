@@ -42,7 +42,20 @@ The code structure and the anomaly injection script were implemented following t
 
 ## Citing the Paper
 
-In progress...
+If you use this code, please cite:
+
+```bibtex
+@article{
+bindini2026dealing,
+title={Dealing with Uncertainty in Contextual Anomaly Detection},
+author={Luca Bindini and Lorenzo Perini and Stefano Nistri and Jesse Davis and Paolo Frasconi},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=yLoXQDNwwa},
+note={}
+}
+```
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />All material is available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicate any changes** you've made.
