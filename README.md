@@ -1,7 +1,8 @@
 # NormalcyScore
 _Dealing with Uncertainty in Contextual Anomaly Detection_ [TMLR 2026]
 
-Implementation of the **normalcy score (NS)** framework presented in *“Dealing with Uncertainty in Contextual Anomaly Detection”*.  
+Implementation of the **normalcy score (NS)** framework presented in [Dealing with Uncertainty in Contextual Anomaly Detection](https://openreview.net/forum?id=yLoXQDNwwa). 
+
 NS is a **contextual anomaly detection** method that models both **aleatoric** and **epistemic** uncertainty via **heteroscedastic Gaussian process regression (HGPR)**, returning:
 - an anomaly score (expected NS)
 - an uncertainty estimate through a **95% Highest Density Interval (HDI)** on the score
